@@ -1,3 +1,4 @@
+#include <codecvt>
 #include <cstddef>
 #include <iostream>
 #include <ostream>
@@ -84,11 +85,11 @@ int main(){
                xx.erase(xx.begin() + j);
                bool res2 = task(xx);
                if(res2) {
-                corrections++;
+                 total++;
+                 break;
                }
 
             }
-            if(corrections == 1) total++;
         }
     }
     std::cout << total << std::endl;
