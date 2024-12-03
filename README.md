@@ -7,6 +7,7 @@ Provided with Makefile,written in C++
 |-----|:--:|:--:|
 | 1   | ✅ | ✅ |
 | 2   | ✅ | ✅ |
+| 3   | ✅ | ✅ |
 
 ## Compilation
 
