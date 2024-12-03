@@ -11,7 +11,7 @@ Provided with Makefile,written in C++
 
 ## Compilation
 
-Each day has own folder and Makefile, by this moment the compilation is only possible on any Linux/WSL distro using g++. 
+Each day has own folder and Makefile, by this moment the compilation is only possible on any Linux/WSL distro or MacOS using g++. 
 
 Use this for 1.part:
 ```
